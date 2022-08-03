@@ -1,11 +1,11 @@
 #********************************************
-# R Tutorial for CIST 2500
+# R Tutorial for pratical 
 # Objectives:
 # - implement numerical descriptive statistics
 # 
-# Author:  Dr. Christian Haas
-# First Version: July 28th, 2017
-# Current Version: January 15th, 2018
+# Author:  Jadeyyuu
+# First Version: July 28th, 2020
+# Current Version: January 15th, 2021
 #********************************************
 
 # set your working directory
